@@ -1,4 +1,4 @@
-VEK_STATUSES = ['Weird Bringer 8.4','Vek Like Games','Squirrel Simulator','Little Kid Creeper','Scaring Children','Lost','WoW, still trying to find Geoff','Pickle Eater','His Rogue, doh, Rogue!','Burgener Aggitator 2.0','Meng Troller 3000','Some Anime Game','A Dating Sim']
+VEK_STATUSES = ['Weird Bringer 8.4','Vek Like Games','Squirrel Simulator','Little Kid Creeper','Scaring Children','Lost','WoW, still trying to find Geoff','Pickle Eater','His Rogue, doh, Rogue!','Burgener Aggitator 2.0','Meng Troller 3000','Some Anime Game','A Dating Sim','A 3D game and using his camera!','Hard Action Games, and somehow winning']
 VEK_DIRECTIONS = ['Go left, then right, next left, then right...','Check north, then south, then north again, followed by south...','Go up, then down, then back up, then down again..']
 VEK_BODILY_FUNCTIONS = ['BURRRPPPPPP!','burp-Burrrrrrp~!','Braaap!','HIC!','HICCUP!','AAHHHCHOOOOO!']
 VEK_TARGETS = ['Burgener', 'Meng']
